@@ -12,7 +12,6 @@ var s = "hi John"
 func main() {
 
 	fmt.Println("hello Go and rock...", s)
-	Come()
 }
 
 func hello() {
